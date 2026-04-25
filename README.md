@@ -2,7 +2,7 @@
 
 💻 **CS Student | Problem Solver**
 
-I build things that *work*, look clean, and actually solve problems — not just tutorials that gather dust.
+I build things that *work*, look clean, and actually solve problems - not just tutorials that gather dust.
 
 ---
 
