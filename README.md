@@ -29,22 +29,6 @@ Backend: Node.js
 Tools: Git | GitHub 
 ```
 
----
-
-## 📊 GitHub Stats
-
-\
-
----
-
-## 👀 Profile Visitors
-
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Its-prince12/Its-prince12/blob/output/github-contribution-grid-snake.svg)
----
-
 ## 📫 Connect With Me
 
 * [💼 LinkedIn](https://www.linkedin.com/in/prince-chaurasiya-42378639a/)
